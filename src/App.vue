@@ -1,5 +1,6 @@
 <script setup>
-import Hello from "./components/Hello.vue";
+// import Hello from "./components/Hello.vue";
+import HelloBind from "./components/HelloBind.vue";
 
 const name = "Belal";
 </script>
@@ -9,7 +10,8 @@ const name = "Belal";
     <h1>Local regisration by {{ name }}</h1>
     <!-- <HellowWorld />
     <ByeWorld /> -->
-    <Hello />
+    <!-- <Hello /> -->
+    <HelloBind />
   </div>
 </template>
 
