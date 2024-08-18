@@ -1,12 +1,12 @@
 <script setup>
-import HelloWorld from "./components/HelloWorld.vue";
 const name = "Belal";
 </script>
 
 <template>
   <div>
     <h1>Local regisration by {{ name }}</h1>
-    <HelloWorld />
+    <HellowWorld />
+    <ByeWorld />
   </div>
 </template>
 
