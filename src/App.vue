@@ -1,6 +1,8 @@
 <script setup>
 // import Hello from "./components/Hello.vue";
-import HelloBind from "./components/HelloBind.vue";
+// import HelloBind from "./components/HelloBind.vue";
+// import Reactivity from "./components/Reactivity.vue";
+import RefAcitvity from "./components/RefAcitvity.vue";
 
 const name = "Belal";
 </script>
@@ -11,7 +13,9 @@ const name = "Belal";
     <!-- <HellowWorld />
     <ByeWorld /> -->
     <!-- <Hello /> -->
-    <HelloBind />
+    <!-- <HelloBind /> -->
+    <!-- <Reactivity /> -->
+    <RefAcitvity />
   </div>
 </template>
 
